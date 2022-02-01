@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+.markdown-app {
+  height: 200vh;
+  width: 100vw;
+  background-color: #19282f;
+  overflow-x: hidden;
+}
+.markdown-app .content {
+  width: 50%;
+  height: 100%;
+  margin: auto;
+  border: 2px solid #d3eca7;
+  padding-top: 2em;
+}
+.content  h1 {
+text-align: center;
+color: #a1b57d;
+font-size: 1.8em;
+}
+.content .main-section {
+  width: 70%;
+  margin: auto;
+}
+.content .main-section h3 {
+  text-align: center;
+  color: #a1b57d;
+}

@@ -1,0 +1,12 @@
+#preview {
+    margin-top: 3em;
+    width: 100%;
+    height: 100%;
+    width: auto;
+}
+
+#preview .info {
+    background-color: whitesmoke;
+    text-align: center;
+    border-radius: 10px;
+}
